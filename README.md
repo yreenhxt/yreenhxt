@@ -1,16 +1,15 @@
-## Hi there 👋
+<p>
+  <img src="https://yreenhxt.pages.dev/gh/c.png" />
+</p>
 
-<!--
-**yreenhxt/yreenhxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.roblox.com/users/9105476331" target="_blank">
+    <img src="https://yreenhxt.pages.dev/gh/ib.roblox.png" />
+  </a>
+  <a href="https://www.tiktok.com/@yreenhxt" target="_blank">
+    <img src="https://yreenhxt.pages.dev/gh/ib.tiktok.png" />
+  </a>
+  <a href="https://discord.com/users/1177482709770178662" target="_blank">
+    <img src="https://yreenhxt.pages.dev/gh/ib.discord.png" />
+  </a>
+</p>
