@@ -1,5 +1,5 @@
 <p>
-  <img src="https://yreenhxt.pages.dev/gh/c.png" />
+  <img src="https://yreenhxt.pages.dev/gh/c.webp" />
 </p>
 
 <p align="center">
